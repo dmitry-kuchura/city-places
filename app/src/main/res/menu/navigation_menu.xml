@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/nav_home"
+            android:title="@string/home"
+            android:icon="@drawable/menu_dashboard_icon"/>
+    <item
+            android:id="@+id/nav_all_places"
+            android:title="@string/all_places"
+            android:icon="@drawable/menu_place_icon"/>
+    <item
+            android:id="@+id/instagram_places"
+            android:title="@string/instagram_places"
+            android:icon="@drawable/menu_instagram_icon"/>
+
+    <item android:title="@string/profile">
+        <menu>
+            <item
+                    android:id="@+id/nav_login"
+                    android:title="@string/login"
+                    android:icon="@drawable/menu_login_icon"/>
+            <item
+                    android:id="@+id/nav_profile"
+                    android:title="@string/profile"
+                    android:icon="@drawable/menu_profile_icon"/>
+            <item
+                    android:id="@+id/nav_logout"
+                    android:title="@string/logout"
+                    android:visible="true"
+                    android:icon="@drawable/menu_logout_icon"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/routes">
+        <menu>
+            <item
+                    android:id="@+id/walk_routes"
+                    android:title="@string/walk_routes"
+                    android:icon="@drawable/menu_login_icon"/>
+            <item
+                    android:id="@+id/cycling_routes"
+                    android:title="@string/cycling_routes"
+                    android:icon="@drawable/menu_profile_icon"/>
+            <item
+                    android:id="@+id/kayaking_routes"
+                    android:title="@string/kayaking_routes"
+                    android:visible="true"
+                    android:icon="@drawable/menu_logout_icon"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/categories">
+        <menu>
+            <item
+                    android:id="@+id/nav_restaurants"
+                    android:title="@string/restaurants"
+                    android:icon="@drawable/restaurant_icon"/>
+            <item
+                    android:id="@+id/nav_shop"
+                    android:title="@string/shops"
+                    android:icon="@drawable/shop_icon"/>
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_share"
+                android:title="@string/share"
+                android:icon="@drawable/menu_share_icon"/>
+    </group>
+</menu>

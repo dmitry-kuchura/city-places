@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Міські місця</string>
+    <string name="header_name">Міські місця</string>
+    <string name="home">Головна</string>
+    <string name="all_places">Усі місця</string>
+    <string name="share">Поділитися</string>
+    <string name="restaurants">Кафе</string>
+    <string name="shops">Магазини</string>
+    <string name="login">Увійти</string>
+    <string name="profile">Профіль</string>
+    <string name="logout">Вийти</string>
+    <string name="instagram_places">Insta плейс</string>
+    <string name="categories">Категорії</string>
+    <string name="logo_name">Будуйте маршрут</string>
+    <string name="slogan_name">Все що є у місті</string>
+    <string name="routes">Маршрути</string>
+    <string name="walk_routes">Пеші маршрути</string>
+    <string name="cycling_routes">Велосипедні маршрути</string>
+    <string name="kayaking_routes">Маршрути на каяках</string>
+</resources>

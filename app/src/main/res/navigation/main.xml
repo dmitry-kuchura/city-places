@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/main"
+            app:startDestination="@id/nav_home">
+
+    <fragment android:id="@+id/nav_home"
+              android:name="com.dmytro.kuchura.cityplaces.fragments.HomeFragment"
+              android:label="@string/home"
+              tools:layout="@layout/fragment_home"/>
+    <fragment android:id="@+id/nav_all_places"
+              android:name="com.dmytro.kuchura.cityplaces.fragments.AllPlacesFragment"
+              android:label="@string/all_places"
+              tools:layout="@layout/fragment_all_places"/>
+    <fragment android:id="@+id/instagram_places"
+              android:name="com.dmytro.kuchura.cityplaces.fragments.InstagramPlacesFragment"
+              android:label="@string/instagram_places"
+              tools:layout="@layout/fragment_instagram_places"/>
+    <fragment android:id="@+id/nav_profile"
+              android:name="com.dmytro.kuchura.cityplaces.fragments.ProfileFragment"
+              android:label="@string/profile"
+              tools:layout="@layout/fragment_profile"/>
+    <fragment android:id="@+id/walk_routes"
+              android:name="com.dmytro.kuchura.cityplaces.fragments.WalkRoutesFragment"
+              android:label="@string/walk_routes"
+              tools:layout="@layout/fragment_walk_routes"/>
+    <fragment android:id="@+id/cycling_routes"
+              android:name="com.dmytro.kuchura.cityplaces.fragments.CyclingRoutesFragment"
+              android:label="@string/cycling_routes"
+              tools:layout="@layout/fragment_cycling_routes"/>
+</navigation>

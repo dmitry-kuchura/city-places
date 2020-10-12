@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">City Places</string>
+    <string name="header_name">City Places</string>
+    <string name="home">Home</string>
+    <string name="all_places">All Places</string>
+    <string name="share">Share</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shops">Shops</string>
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="instagram_places">Instagram Places</string>
+    <string name="categories">Categories</string>
+    <string name="logo_name">Get A Way</string>
+    <string name="slogan_name">Everything the city holds</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="routes">Routes</string>
+    <string name="walk_routes">Walk Routes</string>
+    <string name="cycling_routes">Cycling Routes</string>
+    <string name="kayaking_routes">Kayaking Routes</string>
 </resources>

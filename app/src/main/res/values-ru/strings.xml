@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Городские места</string>
+    <string name="header_name">Городские места</string>
+    <string name="home">Главная</string>
+    <string name="all_places">Все Места</string>
+    <string name="share">Поделиться</string>
+    <string name="restaurants">Кафе</string>
+    <string name="shops">Магазины</string>
+    <string name="login">Войти</string>
+    <string name="profile">Профиль</string>
+    <string name="logout">Выйти</string>
+    <string name="instagram_places">Insta плейс</string>
+    <string name="categories">Категории</string>
+    <string name="logo_name">Стройте маршрут</string>
+    <string name="slogan_name">Все, что есть в городе</string>
+    <string name="routes">Маршруты</string>
+    <string name="walk_routes">Пешие маршруты</string>
+    <string name="cycling_routes">Велосипедные маршруты</string>
+    <string name="kayaking_routes">Маршруты на каяках</string>
+</resources>
