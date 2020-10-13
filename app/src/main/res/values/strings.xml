@@ -18,4 +18,13 @@
     <string name="walk_routes">Walk Routes</string>
     <string name="cycling_routes">Cycling Routes</string>
     <string name="kayaking_routes">Kayaking Routes</string>
+    <string name="search_text">Search...</string>
+    <string name="featured_locations">Featured</string>
+    <string name="featured_locations_description">Featured locations description</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="personal">Contact</string>
 </resources>

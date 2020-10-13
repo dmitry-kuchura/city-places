@@ -18,4 +18,13 @@
     <string name="walk_routes">Пешие маршруты</string>
     <string name="cycling_routes">Велосипедные маршруты</string>
     <string name="kayaking_routes">Маршруты на каяках</string>
+    <string name="search_text">Поиск...</string>
+    <string name="featured_locations">Избранное</string>
+    <string name="featured_locations_description">Featured locations description</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_password">Пароль</string>
+    <string name="remember_me">Запомнить</string>
+    <string name="forget_password">Забыли пароль</string>
+    <string name="create_account">Создать аккаунт</string>
+    <string name="personal">Контакты</string>
 </resources>
