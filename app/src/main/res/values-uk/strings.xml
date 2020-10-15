@@ -27,4 +27,5 @@
     <string name="forget_password">Забули пароль</string>
     <string name="create_account">Створити аккаунт</string>
     <string name="personal">Контакти</string>
+    <string name="power_by">Dmytro Kuchura</string>
 </resources>
