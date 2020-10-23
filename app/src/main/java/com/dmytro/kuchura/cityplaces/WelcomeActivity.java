@@ -19,7 +19,7 @@ public class WelcomeActivity extends FragmentActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent mySuperIntent = new Intent(WelcomeActivity.this, MainActivity.class);
+                Intent mySuperIntent = new Intent(WelcomeActivity.this, OnBoardingActivity.class);
                 startActivity(mySuperIntent);
                 finish();
             }
